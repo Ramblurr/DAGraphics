@@ -1,0 +1,6 @@
+[submodule "ASCII-DarkAges"]
+	path = ASCII-DarkAges
+	url = https://github.com/Ramblurr/ASCII-DarkAges.git
+[submodule "Grim-Fortress-DarkAges"]
+	path = Grim-Fortress-DarkAges
+	url = https://github.com/Ramblurr/Grim-Fortress-DarkAges.git
